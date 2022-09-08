@@ -1,7 +1,7 @@
 {
   "name": "vue-count-to-array",
   "description": "It's a vue component that will count to a target number at a specified duration by array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "mantianguohai <1964791091@qq.com>",
   "main": "dist/vue-count-to-array.min.js",
   "scripts": {
