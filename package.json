@@ -9,7 +9,10 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "license": "MIT",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/panshuang1/vue-counttoarray"
+  },
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-eslint": "7.1.1",
